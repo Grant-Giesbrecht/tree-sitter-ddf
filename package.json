@@ -2,7 +2,7 @@
   "name": "tree-sitter-ddf",
   "version": "1.0.0",
   "description": "Parser for DDF language",
-  "main": "index.js",
+  "main": "bindings/node",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Grant-Giesbrecht/tree-sitter-ddf#readme",
   "dependencies": {
     "nan": "^2.15.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.0"
   }
 }
