@@ -1,0 +1,25 @@
+{
+  "name": "tree-sitter-ddf",
+  "version": "1.0.0",
+  "description": "Parser for DDF language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grant-Giesbrecht/tree-sitter-ddf.git"
+  },
+  "keywords": [
+    "DDF"
+  ],
+  "author": "Grant Giesbrecht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grant-Giesbrecht/tree-sitter-ddf/issues"
+  },
+  "homepage": "https://github.com/Grant-Giesbrecht/tree-sitter-ddf#readme",
+  "dependencies": {
+    "nan": "^2.15.0"
+  }
+}
